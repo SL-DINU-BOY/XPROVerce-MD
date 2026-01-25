@@ -42,7 +42,7 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "XPROVerce~nO9YaKwps9",
 PORT: process.env.PORT || "8000",
-TOKEN: "3fmykHwVcAsMFNo5HKHJGzBvIShF4k42qUpI",
+TOKEN: "r5lGK9kmAAFOtM9Gl77POyMPDSm9TP1eYWc9",
 USERNAME: "SL-DINU-BOY",
 REPO_NAME: "XPROVerce-MD"
 };
